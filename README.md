@@ -23,6 +23,7 @@ __________________________
 
 ▫️Startup manager
 
+![Image 1](https://i.postimg.cc/Pq3DNqGC/Screenshot-1.png)
 __________________________
 ⭕1. Remote Desktop Access⭕
 
