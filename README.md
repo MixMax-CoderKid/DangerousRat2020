@@ -1,0 +1,2 @@
+# DangerousRat2020
+🔲Dangerous RAT 2020 V5 Cracked🔲  ➡️There are many powerful and new features of paid rats that are discovered in this rat software that's why I prefer this over all other RATs ( Remote Acces Tools ).  __________________________ ◼️Features ◼️  ▫️Clients control  ▫️Update  ▫️Disconnect  ▫️Reconnect  ▫️Uninstall  ▫️Remote system  ▫️System information  ▫️File manager  ▫️Startup manager
