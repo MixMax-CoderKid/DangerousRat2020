@@ -25,7 +25,7 @@ __________________________
 
 ![Image 1](https://i.postimg.cc/Pq3DNqGC/Screenshot-1.png)
 ![Image 2](https://i.postimg.cc/pT3nY1Lx/Screenshot-2.png)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UGe6gvuBd84" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 __________________________
 ⭕1. Remote Desktop Access⭕
 
